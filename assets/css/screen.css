@@ -1,0 +1,27 @@
+input {
+    display: block;
+}
+
+input[type="submit"] {
+    margin-top: 20px;
+}
+
+.feedbackform{
+    height: 100%;
+    margin-top: 17%;
+}
+
+.feedbackRadio{
+    padding:7% 0;
+}
+
+.title{
+    font-size: 1.25em;
+}
+
+.mui-container {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin-top: 15%;
+}

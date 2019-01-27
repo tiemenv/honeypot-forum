@@ -1,0 +1,12 @@
+form {
+    margin-left: 350px;
+    margin-top: 10%;
+}
+
+#logout {
+    float: right;
+}
+
+.hidden {
+    display: none;
+}

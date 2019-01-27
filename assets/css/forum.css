@@ -1,0 +1,35 @@
+form {
+    align-content: center;
+    margin: 10px 30%;
+}
+
+.hidden{
+    display: none;
+}
+
+#logout {
+    display: block;
+    float: right;
+}
+
+.forumpost {
+    padding: 0 200px;
+}
+
+.forumpost img, .forumpost h3 {
+    display: inline-flex;
+}
+
+.forumpost h3 {
+    margin-left: 20px;
+}
+
+.forumpost p.js-forum-post + p {
+    text-align: center;
+}
+
+.js-forum-post {
+    width: 100%;
+    overflow: hidden;
+    word-wrap: break-word;
+}

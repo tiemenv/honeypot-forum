@@ -1,0 +1,29 @@
+#profile {
+    background-image: url("../media/avatar_placeholder.png");
+}
+
+header td a {
+    color: white;
+    font-size: 1.2em;
+}
+
+.mui-container.outer {
+    border: lightgray solid 2px;
+    padding-bottom: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.mui-container.inner {
+    border: lightgray solid 2px;
+}
+
+.mui-container.outer h1 {
+    margin: 0;
+    padding-top: 10px;
+    padding-bot: 5px;
+}
+
+.mui-container.inner h2 {
+    padding: 0;
+}

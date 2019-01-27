@@ -1,0 +1,16 @@
+#usermanagement {
+    margin-top: 10px;
+}
+
+#postmanagement {
+    display: none;
+    margin-top: 10px;
+}
+
+.activeRow {
+    background-color: lawngreen;
+}
+
+form {
+    display: inline;
+}
